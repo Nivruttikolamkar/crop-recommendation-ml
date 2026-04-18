@@ -38,7 +38,7 @@ This system recommends the best crop based on soil nutrients and environmental c
 """)
 
 st.sidebar.markdown("### 👨‍💻 Developer")
-st.sidebar.write("Your Name")
+st.sidebar.write("Nivrutti Kolamkar")
 
 # ------------------ Title ------------------
 st.title("🌱 Smart Crop Recommendation System")
